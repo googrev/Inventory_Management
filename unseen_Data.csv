@@ -1,0 +1,19 @@
+product_id,category,item_name,current_stock,minimum_stock,maximum_stock,avg_daily_sales,lead_time_days,last_restock_date,unit_price
+P027,Groceries,Lentils,90,35,115,12,3,2024-10-27,50.2
+P028,Groceries,Pasta,75,30,120,10,4,2024-10-25,40.75
+P029,Groceries,Oats,110,40,130,15,2,2024-10-26,32.45
+P030,Groceries,Peas,60,25,100,8,3,2024-10-22,54.3
+P031,Snacks,Popcorn,20,15,80,10,3,2024-10-24,18.99
+P032,Snacks,Cookies,15,12,70,5,2,2024-10-21,22.99
+P033,Snacks,Gummy Bears,9,8,60,4,4,2024-10-19,13.5
+P034,Beverages,Energy Drink,50,20,90,20,2,2024-10-27,29.99
+P035,Beverages,Lemonade,45,15,75,18,3,2024-10-23,25.75
+P036,Beverages,Sparkling Water,30,10,50,7,4,2024-10-22,15.3
+P037,Household,Sponges,10,5,25,3,5,2024-10-21,4.99
+P038,Household,Laundry Basket,12,7,40,2,3,2024-10-20,12.5
+P039,Household,Mop,18,5,35,1,2,2024-10-19,20.0
+P040,Household,Trash Bags,5,10,30,4,4,2024-10-20,9.99
+P041,Stationery,Markers,29,15,50,6,5,2024-10-21,3.99
+P042,Stationery,Sticky Notes,40,20,80,8,4,2024-10-22,2.5
+P043,Stationery,Highlighters,35,20,60,7,3,2024-10-23,4.25
+P044,Stationery,Stapler,8,5,25,2,2,2024-10-21,11.0
